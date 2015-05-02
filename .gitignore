@@ -1,0 +1,4 @@
+*.sublime-*
+env/*
+tests/*
+*.pyc
